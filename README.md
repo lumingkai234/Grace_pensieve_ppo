@@ -37,10 +37,16 @@ unzip GraceVideos.zip
 ```
 
 ## About Grace_pensieve_ppo
-带宽的数据集在./cooked_traces下面
+带宽的数据集在./cooked_traces下面 
+
 grace_pensieve_ppo_model.py文件是ppo模型的网络结构的定义文件
+
 grace_pensieve_ppo_basic.py文件是ppo类：涉及动作的选择逻辑、网络的更新、模型的加载和保存
+
+grace_pensieve_ppo_replaymemory.py文件是经验回放的空间的定义
+
 grace_pensieve_ppo_env.py文件是ppo和环境交互的逻辑：涉及到trace的读取、丢包的计算、state的更新
+
 grace_pensieve_ppo_train.py文件是训练的代码 也是主函数
 
 
