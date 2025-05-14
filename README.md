@@ -1,19 +1,11 @@
-<<<<<<< HEAD
-# GRACE: Loss-Resilient Real-Time Video through Neural Codecs
-
-## Important License Information
-
-
-Before using any software or code from this repository, please refer to the LICENSE file for detailed terms and conditions. It is crucial to understand that while the majority of the code in this repository is governed by the Academic Software License © 2023 UChicago
-
-Additionally, please note that the content within the following specific subfolders and files ("baselines/error_concealment", "grace/subnet", and "grace/net.py") did not originate from the authors and may be subject to different terms and conditions, not covered under the provided license. 
+# GRACE_pensieve_ppo
 
 ## Install the dependencies
 
 **Note: you need to have `git` and `conda` before installation**
 ```bash
 # clone the repo
-git clone https://github.com/UChi-JCL/Grace # clone the repo
+git clone https://github.com/lumingkai234/Grace_pensieve_ppo # clone the repo
 cd Grace
 
 # install the dependencies
@@ -44,35 +36,7 @@ cp /your/download/path/GraceVideos.zip .
 unzip GraceVideos.zip
 ```
 
+## About Grace_pensieve_ppo
+grace_pensieve_ppo_model.py文件是ppo模型的网络结构的定义文件
 
-## Running GRACE
 
-```bash
-# activate the conda env
-conda activate grace-test
-
-# run Grace
-LD_LIBRARY_PATH=libs/:${LD_LIBRARY_PATH} python3 grace-gpu.py
-
-# run pretrained AE models
-LD_LIBRARY_PATH=libs/:${LD_LIBRARY_PATH} python3 pretrained-gpu.py
-
-# run h265/h264 baseline
-# NOTE: after running this, you may have to restart your terminal
-LD_LIBRARY_PATH=libs/:${LD_LIBRARY_PATH} python3 h26x.py
-
-# run error concealment
-# WARNING: this could take a long time (couple of hours)
-LD_LIBRARY_PATH=libs/:${LD_LIBRARY_PATH} python3 error-concealment.py
-```
-
-After running the above scripts, you can use the following script to plot the results
-```bash
-cd results/
-python3 plot.py
-```
-The result will be saved to the pngs in the same folder
-
-=======
-# Grace_pensieve_ppo
->>>>>>> 5d72b8ebfb3ec77d37842955cfb29c8b2687a20f
