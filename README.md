@@ -47,7 +47,9 @@ grace_pensieve_ppo_replaymemory.py文件是经验回放的空间的定义
 
 grace_pensieve_ppo_env.py文件是ppo和环境交互的逻辑：涉及到trace的读取、丢包的计算、state的更新
 
-grace_pensieve_ppo_train.py文件是训练的代码 也是主函数
+grace_pensieve_ppo_train.py文件是主函数  包括训练逻辑和对模型在验证集上的验证
+
+grace_pensieve_ppo_test.py是测试ppo模型在测试集上的效果
 
 
 
