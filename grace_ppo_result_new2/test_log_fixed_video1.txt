@@ -1,0 +1,145 @@
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_16_update_48.pth
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_16_update_48.pth
+Testing PPO model on test set...
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_16_update_48.pth
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_16_update_48.pth
+Testing PPO model on test set...
+Trace 1: PPO Average SSIM: 16.0905
+Trace 2: PPO Average SSIM: 16.8321
+Trace 3: PPO Average SSIM: 16.2004
+Trace 4: PPO Average SSIM: 15.4846
+Trace 5: PPO Average SSIM: 15.2231
+Trace 6: PPO Average SSIM: 15.8490
+Trace 7: PPO Average SSIM: 16.6360
+Trace 8: PPO Average SSIM: 16.4796
+Trace 9: PPO Average SSIM: 16.0245
+Trace 10: PPO Average SSIM: 15.0764
+Trace 11: PPO Average SSIM: 15.9627
+Trace 12: PPO Average SSIM: 15.5050
+Trace 13: PPO Average SSIM: 16.1838
+Trace 14: PPO Average SSIM: 16.8796
+Trace 15: PPO Average SSIM: 13.9802
+Trace 16: PPO Average SSIM: 16.4490
+Trace 17: PPO Average SSIM: 15.7896
+Trace 18: PPO Average SSIM: 14.2769
+Trace 19: PPO Average SSIM: 16.7250
+Trace 20: PPO Average SSIM: 15.9416
+Trace 21: PPO Average SSIM: 15.7385
+
+Weighted Average SSIM: 15.8728
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_20_update_60.pth
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_20_update_60.pth
+Testing PPO model on test set...
+Trace 1: PPO Average SSIM: 16.3897
+Trace 2: PPO Average SSIM: 16.7755
+Trace 3: PPO Average SSIM: 16.4717
+Trace 4: PPO Average SSIM: 15.8127
+Trace 5: PPO Average SSIM: 15.6846
+Trace 6: PPO Average SSIM: 16.1101
+Trace 7: PPO Average SSIM: 16.7569
+Trace 8: PPO Average SSIM: 16.6581
+Trace 9: PPO Average SSIM: 16.3086
+Trace 10: PPO Average SSIM: 15.5024
+Trace 11: PPO Average SSIM: 16.3230
+Trace 12: PPO Average SSIM: 16.0187
+Trace 13: PPO Average SSIM: 16.4022
+Trace 14: PPO Average SSIM: 16.7743
+Trace 15: PPO Average SSIM: 14.5812
+Trace 16: PPO Average SSIM: 16.6108
+Trace 17: PPO Average SSIM: 16.1299
+Trace 18: PPO Average SSIM: 14.8324
+Trace 19: PPO Average SSIM: 16.7259
+Trace 20: PPO Average SSIM: 16.3205
+Trace 21: PPO Average SSIM: 16.1841
+
+Weighted Average SSIM: 16.1606
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_24_update_72.pth
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_24_update_72.pth
+Testing PPO model on test set...
+Trace 1: PPO Average SSIM: 16.3850
+Trace 2: PPO Average SSIM: 16.7749
+Trace 3: PPO Average SSIM: 16.4747
+Trace 4: PPO Average SSIM: 15.8037
+Trace 5: PPO Average SSIM: 15.6901
+Trace 6: PPO Average SSIM: 16.1102
+Trace 7: PPO Average SSIM: 16.7572
+Trace 8: PPO Average SSIM: 16.6578
+Trace 9: PPO Average SSIM: 16.3116
+Trace 10: PPO Average SSIM: 15.5045
+Trace 11: PPO Average SSIM: 16.3249
+Trace 12: PPO Average SSIM: 16.0230
+Trace 13: PPO Average SSIM: 16.4059
+Trace 14: PPO Average SSIM: 16.7751
+Trace 15: PPO Average SSIM: 14.5752
+Trace 16: PPO Average SSIM: 16.6120
+Trace 17: PPO Average SSIM: 16.1275
+Trace 18: PPO Average SSIM: 14.8367
+Trace 19: PPO Average SSIM: 16.7281
+Trace 20: PPO Average SSIM: 16.3208
+Trace 21: PPO Average SSIM: 16.1919
+
+Weighted Average SSIM: 16.1615
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_28_update_84.pth
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_28_update_84.pth
+Testing PPO model on test set...
+Trace 1: PPO Average SSIM: 16.0961
+Trace 2: PPO Average SSIM: 16.8086
+Trace 3: PPO Average SSIM: 16.3429
+Trace 4: PPO Average SSIM: 15.5075
+Trace 5: PPO Average SSIM: 15.3385
+Trace 6: PPO Average SSIM: 15.8331
+Trace 7: PPO Average SSIM: 16.6358
+Trace 8: PPO Average SSIM: 16.5049
+Trace 9: PPO Average SSIM: 16.0591
+Trace 10: PPO Average SSIM: 15.1876
+Trace 11: PPO Average SSIM: 16.0338
+Trace 12: PPO Average SSIM: 15.6791
+Trace 13: PPO Average SSIM: 16.2732
+Trace 14: PPO Average SSIM: 16.9098
+Trace 15: PPO Average SSIM: 14.3203
+Trace 16: PPO Average SSIM: 16.4999
+Trace 17: PPO Average SSIM: 15.8778
+Trace 18: PPO Average SSIM: 14.5667
+Trace 19: PPO Average SSIM: 16.7476
+Trace 20: PPO Average SSIM: 15.9703
+Trace 21: PPO Average SSIM: 15.8100
+
+Weighted Average SSIM: 15.9525
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_34_update_102.pth
+
+Testing PPO model: ./grace_ppo_result_new2/ppo_model_epoch_34_update_102.pth
+Testing PPO model on test set...
+Trace 1: PPO Average SSIM: 16.1002
+Trace 2: PPO Average SSIM: 16.8097
+Trace 3: PPO Average SSIM: 16.3397
+Trace 4: PPO Average SSIM: 15.4957
+Trace 5: PPO Average SSIM: 15.3362
+Trace 6: PPO Average SSIM: 15.8389
+Trace 7: PPO Average SSIM: 16.6336
+Trace 8: PPO Average SSIM: 16.5075
+Trace 9: PPO Average SSIM: 16.0566
+Trace 10: PPO Average SSIM: 15.1961
+Trace 11: PPO Average SSIM: 16.0301
+Trace 12: PPO Average SSIM: 15.6899
+Trace 13: PPO Average SSIM: 16.2707
+Trace 14: PPO Average SSIM: 16.9083
+Trace 15: PPO Average SSIM: 14.3018
+Trace 16: PPO Average SSIM: 16.5004
+Trace 17: PPO Average SSIM: 15.8663
+Trace 18: PPO Average SSIM: 14.5710
+Trace 19: PPO Average SSIM: 16.7493
+Trace 20: PPO Average SSIM: 15.9709
+Trace 21: PPO Average SSIM: 15.8121
+
+Weighted Average SSIM: 15.9517

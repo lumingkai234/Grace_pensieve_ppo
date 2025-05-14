@@ -1,0 +1,6 @@
+Testing model on test set...
+Testing with trace starting at index 0
+Testing completed. Average SSIM: 15.9179
+Testing model on test set...
+Testing with trace starting at index 0
+Testing completed. Average SSIM: 15.9224

@@ -1,0 +1,143 @@
+Testing PPO model and fixed actions on test set...
+ppo:ppo_model_epoch_11_update_33
+Trace 1: PPO Average SSIM: 15.6442
+Trace 1: Fixed Action 0 Average SSIM: 15.1280
+Trace 1: Fixed Action 1 Average SSIM: 15.6524
+Trace 1: Fixed Action 2 Average SSIM: 15.6471
+Trace 1: Fixed Action 3 Average SSIM: 15.2991
+Trace 1: Fixed Action 4 Average SSIM: 14.9108
+Trace 1: Fixed Action 5 Average SSIM: 14.9055
+Trace 2: PPO Average SSIM: 15.7455
+Trace 2: Fixed Action 0 Average SSIM: 14.9648
+Trace 2: Fixed Action 1 Average SSIM: 16.1738
+Trace 2: Fixed Action 2 Average SSIM: 15.8010
+Trace 2: Fixed Action 3 Average SSIM: 15.3612
+Trace 2: Fixed Action 4 Average SSIM: 15.6814
+Trace 2: Fixed Action 5 Average SSIM: 15.5059
+Trace 3: PPO Average SSIM: 15.9385
+Trace 3: Fixed Action 0 Average SSIM: 15.1430
+Trace 3: Fixed Action 1 Average SSIM: 15.7626
+Trace 3: Fixed Action 2 Average SSIM: 15.9748
+Trace 3: Fixed Action 3 Average SSIM: 15.5461
+Trace 3: Fixed Action 4 Average SSIM: 15.2683
+Trace 3: Fixed Action 5 Average SSIM: 15.2472
+Trace 4: PPO Average SSIM: 15.1691
+Trace 4: Fixed Action 0 Average SSIM: 14.9591
+Trace 4: Fixed Action 1 Average SSIM: 14.2596
+Trace 4: Fixed Action 2 Average SSIM: 15.1425
+Trace 4: Fixed Action 3 Average SSIM: 14.9823
+Trace 4: Fixed Action 4 Average SSIM: 13.8562
+Trace 4: Fixed Action 5 Average SSIM: 14.4154
+Trace 5: PPO Average SSIM: 15.0193
+Trace 5: Fixed Action 0 Average SSIM: 14.7986
+Trace 5: Fixed Action 1 Average SSIM: 15.0738
+Trace 5: Fixed Action 2 Average SSIM: 15.0095
+Trace 5: Fixed Action 3 Average SSIM: 14.6976
+Trace 5: Fixed Action 4 Average SSIM: 14.3291
+Trace 5: Fixed Action 5 Average SSIM: 14.2948
+Trace 6: PPO Average SSIM: 15.3889
+Trace 6: Fixed Action 0 Average SSIM: 14.8687
+Trace 6: Fixed Action 1 Average SSIM: 14.4703
+Trace 6: Fixed Action 2 Average SSIM: 14.9527
+Trace 6: Fixed Action 3 Average SSIM: 14.8607
+Trace 6: Fixed Action 4 Average SSIM: 14.3264
+Trace 6: Fixed Action 5 Average SSIM: 13.8840
+Trace 7: PPO Average SSIM: 16.0225
+Trace 7: Fixed Action 0 Average SSIM: 15.2317
+Trace 7: Fixed Action 1 Average SSIM: 15.9040
+Trace 7: Fixed Action 2 Average SSIM: 16.0019
+Trace 7: Fixed Action 3 Average SSIM: 15.6266
+Trace 7: Fixed Action 4 Average SSIM: 15.1504
+Trace 7: Fixed Action 5 Average SSIM: 15.1742
+Trace 8: PPO Average SSIM: 15.9547
+Trace 8: Fixed Action 0 Average SSIM: 15.2698
+Trace 8: Fixed Action 1 Average SSIM: 16.0282
+Trace 8: Fixed Action 2 Average SSIM: 15.9298
+Trace 8: Fixed Action 3 Average SSIM: 16.0289
+Trace 8: Fixed Action 4 Average SSIM: 15.5942
+Trace 8: Fixed Action 5 Average SSIM: 15.2592
+Trace 9: PPO Average SSIM: 15.4560
+Trace 9: Fixed Action 0 Average SSIM: 14.9499
+Trace 9: Fixed Action 1 Average SSIM: 15.9143
+Trace 9: Fixed Action 2 Average SSIM: 16.0262
+Trace 9: Fixed Action 3 Average SSIM: 15.0576
+Trace 9: Fixed Action 4 Average SSIM: 14.8138
+Trace 9: Fixed Action 5 Average SSIM: 15.1330
+Trace 10: PPO Average SSIM: 14.8397
+Trace 10: Fixed Action 0 Average SSIM: 14.6868
+Trace 10: Fixed Action 1 Average SSIM: 14.9541
+Trace 10: Fixed Action 2 Average SSIM: 14.8800
+Trace 10: Fixed Action 3 Average SSIM: 14.5777
+Trace 10: Fixed Action 4 Average SSIM: 14.2421
+Trace 10: Fixed Action 5 Average SSIM: 14.2181
+Trace 11: PPO Average SSIM: 15.5594
+Trace 11: Fixed Action 0 Average SSIM: 15.0581
+Trace 11: Fixed Action 1 Average SSIM: 15.5949
+Trace 11: Fixed Action 2 Average SSIM: 15.5641
+Trace 11: Fixed Action 3 Average SSIM: 15.0885
+Trace 11: Fixed Action 4 Average SSIM: 14.8718
+Trace 11: Fixed Action 5 Average SSIM: 14.7751
+Trace 12: PPO Average SSIM: 15.2395
+Trace 12: Fixed Action 0 Average SSIM: 14.9296
+Trace 12: Fixed Action 1 Average SSIM: 15.3298
+Trace 12: Fixed Action 2 Average SSIM: 15.2968
+Trace 12: Fixed Action 3 Average SSIM: 14.9783
+Trace 12: Fixed Action 4 Average SSIM: 14.5635
+Trace 12: Fixed Action 5 Average SSIM: 14.5561
+Trace 13: PPO Average SSIM: 16.5189
+Trace 13: Fixed Action 0 Average SSIM: 15.1487
+Trace 13: Fixed Action 1 Average SSIM: 16.1012
+Trace 13: Fixed Action 2 Average SSIM: 15.8633
+Trace 13: Fixed Action 3 Average SSIM: 16.0784
+Trace 13: Fixed Action 4 Average SSIM: 15.2041
+Trace 13: Fixed Action 5 Average SSIM: 15.4438
+Trace 14: PPO Average SSIM: 16.3744
+Trace 14: Fixed Action 0 Average SSIM: 15.3244
+Trace 14: Fixed Action 1 Average SSIM: 16.1413
+Trace 14: Fixed Action 2 Average SSIM: 16.3646
+Trace 14: Fixed Action 3 Average SSIM: 16.1400
+Trace 14: Fixed Action 4 Average SSIM: 15.7024
+Trace 14: Fixed Action 5 Average SSIM: 15.5955
+Trace 15: PPO Average SSIM: 14.0945
+Trace 15: Fixed Action 0 Average SSIM: 14.0262
+Trace 15: Fixed Action 1 Average SSIM: 14.1510
+Trace 15: Fixed Action 2 Average SSIM: 14.1076
+Trace 15: Fixed Action 3 Average SSIM: 13.8940
+Trace 15: Fixed Action 4 Average SSIM: 13.6261
+Trace 15: Fixed Action 5 Average SSIM: 13.6474
+Trace 16: PPO Average SSIM: 15.9508
+Trace 16: Fixed Action 0 Average SSIM: 15.2184
+Trace 16: Fixed Action 1 Average SSIM: 15.8806
+Trace 16: Fixed Action 2 Average SSIM: 15.9861
+Trace 16: Fixed Action 3 Average SSIM: 15.7082
+Trace 16: Fixed Action 4 Average SSIM: 15.2813
+Trace 16: Fixed Action 5 Average SSIM: 15.2724
+Trace 17: PPO Average SSIM: 15.4430
+Trace 17: Fixed Action 0 Average SSIM: 15.0440
+Trace 17: Fixed Action 1 Average SSIM: 16.3397
+Trace 17: Fixed Action 2 Average SSIM: 16.7825
+Trace 17: Fixed Action 3 Average SSIM: 14.9890
+Trace 17: Fixed Action 4 Average SSIM: 14.8858
+Trace 17: Fixed Action 5 Average SSIM: 15.7520
+Trace 18: PPO Average SSIM: 14.8829
+Trace 18: Fixed Action 0 Average SSIM: 14.5057
+Trace 18: Fixed Action 1 Average SSIM: 14.8769
+Trace 18: Fixed Action 2 Average SSIM: 14.9402
+Trace 18: Fixed Action 3 Average SSIM: 14.3522
+Trace 18: Fixed Action 4 Average SSIM: 14.2614
+Trace 18: Fixed Action 5 Average SSIM: 14.2929
+Trace 19: PPO Average SSIM: 15.5953
+Trace 19: Fixed Action 0 Average SSIM: 15.2456
+Trace 19: Fixed Action 1 Average SSIM: 15.9284
+Trace 19: Fixed Action 2 Average SSIM: 15.6797
+Trace 19: Fixed Action 3 Average SSIM: 15.8847
+Trace 19: Fixed Action 4 Average SSIM: 15.3107
+Trace 19: Fixed Action 5 Average SSIM: 14.8919
+Trace 20: PPO Average SSIM: 15.5112
+Trace 20: Fixed Action 0 Average SSIM: 15.1147
+Trace 20: Fixed Action 1 Average SSIM: 15.5575
+Trace 20: Fixed Action 2 Average SSIM: 15.5407
+Trace 20: Fixed Action 3 Average SSIM: 15.2077
+Trace 20: Fixed Action 4 Average SSIM: 14.8036
+Trace 20: Fixed Action 5 Average SSIM: 14.7678
+

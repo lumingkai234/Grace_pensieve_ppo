@@ -1,0 +1,141 @@
+Training Log
+Epoch 1, Step 512, Save 4, Validation SSIM: 43.8300
+Epoch 1, Step 1024, Save 8, Validation SSIM: 44.4075
+Epoch 1, Step 1536, Save 12, Validation SSIM: 43.8035
+Epoch 0 completed. Average reward: 29.5756
+Epoch 2, Step 2048, Save 16, Validation SSIM: 42.0461
+Epoch 2, Step 2560, Save 20, Validation SSIM: 41.1699
+Epoch 2, Step 3072, Save 24, Validation SSIM: 40.1379
+Epoch 1 completed. Average reward: 28.3607
+Epoch 3, Step 3584, Save 28, Validation SSIM: 43.7855
+Epoch 3, Step 4096, Save 32, Validation SSIM: 42.1072
+Epoch 3, Step 4608, Save 36, Validation SSIM: 40.1162
+Epoch 2 completed. Average reward: 28.4198
+Epoch 4, Step 5120, Save 40, Validation SSIM: 43.8451
+Epoch 4, Step 5632, Save 44, Validation SSIM: 40.0686
+Epoch 4, Step 6144, Save 48, Validation SSIM: 43.8456
+Epoch 3 completed. Average reward: 29.1441
+Epoch 5, Step 6656, Save 52, Validation SSIM: 40.1488
+Epoch 5, Step 7168, Save 56, Validation SSIM: 42.1373
+Epoch 5, Step 7680, Save 60, Validation SSIM: 43.7842
+Epoch 4 completed. Average reward: 29.5435
+Epoch 6, Step 8192, Save 64, Validation SSIM: 42.0579
+Epoch 6, Step 8704, Save 68, Validation SSIM: 41.2311
+Epoch 6, Step 9216, Save 72, Validation SSIM: 42.9755
+Epoch 5 completed. Average reward: 29.8621
+Epoch 7, Step 9728, Save 76, Validation SSIM: 40.1616
+Epoch 7, Step 10240, Save 80, Validation SSIM: 43.8249
+Epoch 7, Step 10752, Save 84, Validation SSIM: 43.8533
+Epoch 6 completed. Average reward: 29.8921
+Epoch 8, Step 11264, Save 88, Validation SSIM: 39.6304
+Epoch 8, Step 11776, Save 92, Validation SSIM: 42.8808
+Epoch 8, Step 12288, Save 96, Validation SSIM: 40.1574
+Epoch 7 completed. Average reward: 28.0670
+Epoch 9, Step 12800, Save 100, Validation SSIM: 40.2154
+Epoch 9, Step 13312, Save 104, Validation SSIM: 39.6539
+Epoch 9, Step 13824, Save 108, Validation SSIM: 42.9778
+Epoch 8 completed. Average reward: 29.8330
+Epoch 10, Step 14336, Save 112, Validation SSIM: 42.9777
+Epoch 10, Step 14848, Save 116, Validation SSIM: 39.6449
+Epoch 10, Step 15360, Save 120, Validation SSIM: 42.9600
+Epoch 9 completed. Average reward: 28.1177
+Epoch 11, Step 15872, Save 124, Validation SSIM: 40.7820
+Epoch 11, Step 16384, Save 128, Validation SSIM: 42.9648
+Epoch 11, Step 16896, Save 132, Validation SSIM: 39.6445
+Epoch 10 completed. Average reward: 29.3622
+Epoch 12, Step 17408, Save 136, Validation SSIM: 40.7265
+Epoch 12, Step 17920, Save 140, Validation SSIM: 40.1564
+Epoch 12, Step 18432, Save 144, Validation SSIM: 40.1432
+Epoch 11 completed. Average reward: 29.5059
+Epoch 13, Step 18944, Save 148, Validation SSIM: 43.8573
+Epoch 13, Step 19456, Save 152, Validation SSIM: 40.2364
+Epoch 13, Step 19968, Save 156, Validation SSIM: 40.2173
+Epoch 12 completed. Average reward: 28.8316
+Epoch 14, Step 20480, Save 160, Validation SSIM: 41.2080
+Epoch 14, Step 20992, Save 164, Validation SSIM: 40.7812
+Epoch 14, Step 21504, Save 168, Validation SSIM: 40.7001
+Epoch 13 completed. Average reward: 28.9881
+Epoch 15, Step 22016, Save 172, Validation SSIM: 43.8723
+Epoch 15, Step 22528, Save 176, Validation SSIM: 43.0009
+Epoch 15, Step 23040, Save 180, Validation SSIM: 40.0584
+Epoch 14 completed. Average reward: 31.0877
+Epoch 16, Step 23552, Save 184, Validation SSIM: 40.1325
+Epoch 16, Step 24064, Save 188, Validation SSIM: 41.2714
+Epoch 16, Step 24576, Save 192, Validation SSIM: 40.6918
+Epoch 15 completed. Average reward: 29.1125
+Epoch 17, Step 25088, Save 196, Validation SSIM: 40.0922
+Epoch 17, Step 25600, Save 200, Validation SSIM: 43.7932
+Epoch 17, Step 26112, Save 204, Validation SSIM: 43.0002
+Epoch 16 completed. Average reward: 28.9839
+Epoch 18, Step 26624, Save 208, Validation SSIM: 41.4100
+Epoch 18, Step 27136, Save 212, Validation SSIM: 43.2210
+Epoch 18, Step 27648, Save 216, Validation SSIM: 40.8679
+Epoch 17 completed. Average reward: 28.9144
+Epoch 19, Step 28160, Save 220, Validation SSIM: 44.3254
+Epoch 19, Step 28672, Save 224, Validation SSIM: 43.4704
+Epoch 19, Step 29184, Save 228, Validation SSIM: 43.2900
+Epoch 18 completed. Average reward: 28.9665
+Epoch 20, Step 29696, Save 232, Validation SSIM: 45.6800
+Epoch 20, Step 30208, Save 236, Validation SSIM: 43.7706
+Epoch 20, Step 30720, Save 240, Validation SSIM: 40.6275
+Epoch 19 completed. Average reward: 29.4107
+Epoch 21, Step 31232, Save 244, Validation SSIM: 42.1623
+Epoch 21, Step 31744, Save 248, Validation SSIM: 42.9898
+Epoch 21, Step 32256, Save 252, Validation SSIM: 43.8779
+Epoch 20 completed. Average reward: 29.3460
+Epoch 22, Step 32768, Save 256, Validation SSIM: 40.2201
+Epoch 22, Step 33280, Save 260, Validation SSIM: 39.6253
+Epoch 22, Step 33792, Save 264, Validation SSIM: 43.8480
+Epoch 21 completed. Average reward: 29.4179
+Epoch 23, Step 34304, Save 268, Validation SSIM: 40.1315
+Epoch 23, Step 34816, Save 272, Validation SSIM: 43.0635
+Epoch 23, Step 35328, Save 276, Validation SSIM: 43.0227
+Epoch 22 completed. Average reward: 29.0070
+Epoch 24, Step 35840, Save 280, Validation SSIM: 43.8359
+Epoch 24, Step 36352, Save 284, Validation SSIM: 39.6507
+Epoch 24, Step 36864, Save 288, Validation SSIM: 43.7803
+Epoch 23 completed. Average reward: 28.4206
+Epoch 25, Step 37376, Save 292, Validation SSIM: 40.6389
+Epoch 25, Step 37888, Save 296, Validation SSIM: 40.2304
+Epoch 25, Step 38400, Save 300, Validation SSIM: 40.1700
+Epoch 24 completed. Average reward: 28.7081
+Epoch 26, Step 38912, Save 304, Validation SSIM: 39.6540
+Epoch 26, Step 39424, Save 308, Validation SSIM: 39.6998
+Epoch 26, Step 39936, Save 312, Validation SSIM: 43.0150
+Epoch 25 completed. Average reward: 29.7686
+Epoch 27, Step 40448, Save 316, Validation SSIM: 43.8907
+Epoch 27, Step 40960, Save 320, Validation SSIM: 41.2909
+Epoch 27, Step 41472, Save 324, Validation SSIM: 39.5976
+Epoch 26 completed. Average reward: 28.5814
+Epoch 28, Step 41984, Save 328, Validation SSIM: 40.7041
+Epoch 28, Step 42496, Save 332, Validation SSIM: 40.2361
+Epoch 28, Step 43008, Save 336, Validation SSIM: 40.1866
+Epoch 27 completed. Average reward: 29.2193
+Epoch 29, Step 43520, Save 340, Validation SSIM: 42.1367
+Epoch 29, Step 44032, Save 344, Validation SSIM: 41.2885
+Epoch 29, Step 44544, Save 348, Validation SSIM: 42.9569
+Epoch 28 completed. Average reward: 29.2128
+Epoch 30, Step 45056, Save 352, Validation SSIM: 40.7047
+Epoch 30, Step 45568, Save 356, Validation SSIM: 40.2387
+Epoch 30, Step 46080, Save 360, Validation SSIM: 43.8805
+Epoch 29 completed. Average reward: 30.1802
+Epoch 31, Step 46592, Save 364, Validation SSIM: 42.0634
+Epoch 31, Step 47104, Save 368, Validation SSIM: 40.2492
+Epoch 31, Step 47616, Save 372, Validation SSIM: 39.6266
+Epoch 30 completed. Average reward: 29.5489
+Epoch 32, Step 48128, Save 376, Validation SSIM: 41.8846
+Epoch 32, Step 48640, Save 380, Validation SSIM: 41.6260
+Epoch 32, Step 49152, Save 384, Validation SSIM: 42.5855
+Epoch 31 completed. Average reward: 29.3804
+Epoch 33, Step 49664, Save 388, Validation SSIM: 41.7138
+Epoch 33, Step 50176, Save 392, Validation SSIM: 42.0438
+Epoch 33, Step 50688, Save 396, Validation SSIM: 43.3981
+Epoch 32 completed. Average reward: 29.0844
+Epoch 34, Step 51200, Save 400, Validation SSIM: 42.8291
+Epoch 34, Step 51712, Save 404, Validation SSIM: 43.2646
+Epoch 34, Step 52224, Save 408, Validation SSIM: 43.1169
+Epoch 33 completed. Average reward: 29.4000
+Epoch 35, Step 52736, Save 412, Validation SSIM: 42.8608
+Epoch 35, Step 53248, Save 416, Validation SSIM: 44.9448
+Epoch 35, Step 53760, Save 420, Validation SSIM: 42.0141
+Epoch 34 completed. Average reward: 29.8877

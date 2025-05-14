@@ -1,0 +1,72 @@
+Testing PPO model...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, PPO Average SSIM (dB): 14.6461
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, PPO Average SSIM (dB): 13.8787
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, PPO Average SSIM (dB): 11.8648
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, PPO Average SSIM (dB): 10.7539
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, PPO Average SSIM (dB): 11.4432
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, PPO Average SSIM (dB): 15.6405
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, PPO Average SSIM (dB): 14.3281
+Overall PPO Average SSIM (dB): 13.2222
+Testing Fixed Action 0...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, Fixed Action 0 Average SSIM (dB): 15.1037
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, Fixed Action 0 Average SSIM (dB): 16.6490
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, Fixed Action 0 Average SSIM (dB): 15.2188
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, Fixed Action 0 Average SSIM (dB): 12.6556
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, Fixed Action 0 Average SSIM (dB): 13.0059
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, Fixed Action 0 Average SSIM (dB): 16.4743
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, Fixed Action 0 Average SSIM (dB): 17.6046
+Overall Fixed Action 0 Average SSIM (dB): 15.2445
+Testing Fixed Action 1...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, Fixed Action 1 Average SSIM (dB): 15.1588
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, Fixed Action 1 Average SSIM (dB): 17.0708
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, Fixed Action 1 Average SSIM (dB): 14.5804
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, Fixed Action 1 Average SSIM (dB): 11.8605
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, Fixed Action 1 Average SSIM (dB): 12.3381
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, Fixed Action 1 Average SSIM (dB): 17.1247
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, Fixed Action 1 Average SSIM (dB): 17.6943
+Overall Fixed Action 1 Average SSIM (dB): 15.1182
+Testing Fixed Action 2...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, Fixed Action 2 Average SSIM (dB): 14.9783
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, Fixed Action 2 Average SSIM (dB): 17.0802
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, Fixed Action 2 Average SSIM (dB): 14.1636
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, Fixed Action 2 Average SSIM (dB): 11.2848
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, Fixed Action 2 Average SSIM (dB): 11.7994
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, Fixed Action 2 Average SSIM (dB): 17.4548
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, Fixed Action 2 Average SSIM (dB): 17.7044
+Overall Fixed Action 2 Average SSIM (dB): 14.9236
+Testing Fixed Action 3...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, Fixed Action 3 Average SSIM (dB): 14.6315
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, Fixed Action 3 Average SSIM (dB): 16.5097
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, Fixed Action 3 Average SSIM (dB): 13.5479
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, Fixed Action 3 Average SSIM (dB): 10.7303
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, Fixed Action 3 Average SSIM (dB): 11.1425
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, Fixed Action 3 Average SSIM (dB): 17.3553
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, Fixed Action 3 Average SSIM (dB): 16.9960
+Overall Fixed Action 3 Average SSIM (dB): 14.4162
+Testing Fixed Action 4...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, Fixed Action 4 Average SSIM (dB): 14.1558
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, Fixed Action 4 Average SSIM (dB): 14.9987
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, Fixed Action 4 Average SSIM (dB): 12.9391
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, Fixed Action 4 Average SSIM (dB): 9.9996
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, Fixed Action 4 Average SSIM (dB): 10.3922
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, Fixed Action 4 Average SSIM (dB): 16.7007
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, Fixed Action 4 Average SSIM (dB): 15.8236
+Overall Fixed Action 4 Average SSIM (dB): 13.5728
+Testing Fixed Action 5...
+Video: /home/lmk/Grace_project/videos/testvideos/video-47.mp4, Fixed Action 5 Average SSIM (dB): 13.7994
+Video: /home/lmk/Grace_project/videos/testvideos/video-11.mp4, Fixed Action 5 Average SSIM (dB): 13.7263
+Video: /home/lmk/Grace_project/videos/testvideos/video-27.mp4, Fixed Action 5 Average SSIM (dB): 12.5665
+Video: /home/lmk/Grace_project/videos/testvideos/video-32.mp4, Fixed Action 5 Average SSIM (dB): 9.7779
+Video: /home/lmk/Grace_project/videos/testvideos/video-20.mp4, Fixed Action 5 Average SSIM (dB): 9.9191
+Video: /home/lmk/Grace_project/videos/testvideos/video-24.mp4, Fixed Action 5 Average SSIM (dB): 16.2578
+Video: /home/lmk/Grace_project/videos/testvideos/video-6.mp4, Fixed Action 5 Average SSIM (dB): 14.9091
+Overall Fixed Action 5 Average SSIM (dB): 12.9937
+
+Comparison Results:
+PPO Model Average SSIM (dB): 13.2222
+Fixed Action 0 Average SSIM (dB): 15.2445
+Fixed Action 1 Average SSIM (dB): 15.1182
+Fixed Action 2 Average SSIM (dB): 14.9236
+Fixed Action 3 Average SSIM (dB): 14.4162
+Fixed Action 4 Average SSIM (dB): 13.5728
+Fixed Action 5 Average SSIM (dB): 12.9937

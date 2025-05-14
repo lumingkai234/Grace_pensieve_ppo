@@ -1,0 +1,10 @@
+Training Log
+Epoch 1, Step 128, Save 1, Validation SSIM: 9.4840
+Epoch 2, Step 128, Save 2, Validation SSIM: 9.6434
+Epoch 3, Step 128, Save 3, Validation SSIM: 9.4005
+Epoch 4, Step 128, Save 4, Validation SSIM: 9.9945
+Epoch 5, Step 128, Save 5, Validation SSIM: 10.0410
+Epoch 6, Step 128, Save 6, Validation SSIM: 10.2416
+Epoch 7, Step 128, Save 7, Validation SSIM: 10.0227
+Epoch 8, Step 128, Save 8, Validation SSIM: 10.0313
+Epoch 9, Step 128, Save 9, Validation SSIM: 9.4454

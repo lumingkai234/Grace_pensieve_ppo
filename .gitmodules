@@ -1,0 +1,3 @@
+[submodule "x265_git"]
+	path = x265_git
+	url = git@github.com:videolan/x265.git

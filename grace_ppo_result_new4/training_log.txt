@@ -1,0 +1,3 @@
+Training Log
+Validation completed. Average SSIM: 16.0695
+Epoch 1 completed. Average reward: 0.7359

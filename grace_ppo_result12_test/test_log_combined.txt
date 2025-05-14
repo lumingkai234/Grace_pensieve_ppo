@@ -1,0 +1,30 @@
+Testing PPO model on test set...
+Testing with trace starting at index 0
+Testing PPO model completed. Average SSIM: 15.9218
+Testing fixed action 0 on test set...
+Testing with trace starting at index 0
+Testing fixed action 0 completed. Average SSIM: 16.0567
+Testing fixed action 1 on test set...
+Testing with trace starting at index 0
+Testing fixed action 1 completed. Average SSIM: 16.1402
+Testing fixed action 2 on test set...
+Testing with trace starting at index 0
+Testing fixed action 2 completed. Average SSIM: 15.9684
+Testing fixed action 3 on test set...
+Testing with trace starting at index 0
+Testing fixed action 3 completed. Average SSIM: 15.7826
+Testing fixed action 4 on test set...
+Testing with trace starting at index 0
+Testing fixed action 4 completed. Average SSIM: 15.4000
+Testing fixed action 5 on test set...
+Testing with trace starting at index 0
+Testing fixed action 5 completed. Average SSIM: 14.9867
+
+Comparison Results:
+PPO Model Average SSIM: 15.9218
+Fixed Action 0 Average SSIM: 16.0567
+Fixed Action 1 Average SSIM: 16.1402
+Fixed Action 2 Average SSIM: 15.9684
+Fixed Action 3 Average SSIM: 15.7826
+Fixed Action 4 Average SSIM: 15.4000
+Fixed Action 5 Average SSIM: 14.9867

@@ -1,0 +1,27 @@
+Training Log
+Validation completed. Average SSIM: 15.8831
+Epoch 1 completed. Average reward: 0.7069
+Validation completed. Average SSIM: 15.7751
+Epoch 2 completed. Average reward: 0.7062
+Validation completed. Average SSIM: 15.6153
+Epoch 3 completed. Average reward: 0.7079
+Validation completed. Average SSIM: 15.6147
+Epoch 4 completed. Average reward: 0.7080
+Validation completed. Average SSIM: 15.6240
+Epoch 5 completed. Average reward: 0.7050
+Validation completed. Average SSIM: 15.4748
+Epoch 6 completed. Average reward: 0.7087
+Validation completed. Average SSIM: 15.6208
+Epoch 7 completed. Average reward: 0.7069
+Validation completed. Average SSIM: 15.6186
+Epoch 8 completed. Average reward: 0.7084
+Validation completed. Average SSIM: 15.6461
+Epoch 9 completed. Average reward: 0.7062
+Validation completed. Average SSIM: 15.6464
+Epoch 10 completed. Average reward: 0.7065
+Validation completed. Average SSIM: 15.6437
+Epoch 11 completed. Average reward: 0.7076
+Validation completed. Average SSIM: 15.6515
+Epoch 12 completed. Average reward: 0.7087
+Validation completed. Average SSIM: 15.6152
+Epoch 13 completed. Average reward: 0.7088
